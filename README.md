@@ -85,8 +85,11 @@ Whether you're building a virtual companion, a self-hosted digital secretary, or
 - ffmpeg (for `pydub` or TTS playback)
 
 IF THERE ARE ISSUES SETTING UP LLAMA FOR CUDA GPU PURPOSES, I'VE PROVIDED 
-THE CUDA_COMPILED VERSION -- https://drive.google.com/drive/folders/1VZNCJgjiAAJIzD2EV0YMERGZ3itMKBlm?usp=sharing
-ALSO, THE MODEL I'M USING.
+THE CUDA_COMPILED VERSION ALSO, THE MODEL I'M USING (SEE ZIP FILES) 
+
+### 🔗 Downloads
+For prebuilt models and runtime files, visit https://drive.google.com/drive/folders/1VZNCJgjiAAJIzD2EV0YMERGZ3itMKBlm?usp=sharing
+
 ---
 
 ## 🛠️ Build Instructions
