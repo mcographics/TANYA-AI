@@ -1,15 +1,6 @@
 # TANYA-AI
 TANYA_OS: a fully local, CUDA-powered AI assistant runtime built for fun, learning, and voice interaction
 
-# llama-cpp-python-tanya
-
-> **CUDA-accelerated Python bindings for `llama.cpp`, integrated into Tanya — a local tactical AI assistant.**
-
-This repository contains a modified, performance-optimized version of [`llama-cpp-python`](https://github.com/abetlen/llama-cpp-python) configured to run on NVIDIA GPUs using GGML_CUDA. It powers the LLM runtime for **TANYA** (Tactical Artificial Neural-Yielded Assistant), a locally-hosted voice-controlled AI system developed for high-speed interaction, autonomous speech, and real-time CUDA inference.
-
----
----
-
 ## 🖥️ Development Notes & System Environment
 
 This entire project is developed and tested on a **2017 Alienware Aurora R6** desktop system. It was important to build on legacy hardware to show that CUDA-accelerated AI systems like Tanya can run on older machines — and that users with more modern hardware will experience even better performance.
