@@ -80,6 +80,8 @@ THE CUDA_COMPILED VERSION ALSO, THE MODEL I'M USING (SEE ZIP FILES)
 
 ### 🔗 Downloads
 For prebuilt models and runtime files, visit https://drive.google.com/drive/folders/1VZNCJgjiAAJIzD2EV0YMERGZ3itMKBlm?usp=sharing
+---
+###
 ADDITIONAL REPO https://github.com/mcographics/llama-cpp-python-tanyaAI
 ---
 
