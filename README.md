@@ -84,6 +84,9 @@ Whether you're building a virtual companion, a self-hosted digital secretary, or
 - `llama.cpp` compiled with `GGML_CUDA=ON`
 - ffmpeg (for `pydub` or TTS playback)
 
+IF THERE ARE ISSUES SETTING UP LLAMA FOR CUDA GPU PURPOSES, I'VE PROVIDED 
+THE CUDA_COMPILED VERSION -- https://drive.google.com/drive/folders/1VZNCJgjiAAJIzD2EV0YMERGZ3itMKBlm?usp=sharing
+ALSO, THE MODEL I'M USING.
 ---
 
 ## 🛠️ Build Instructions
